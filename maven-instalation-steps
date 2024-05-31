@@ -1,0 +1,65 @@
+ 12  java 
+   13  apt update -y 
+   14  apt search jdk 
+   15  apt instal openjdk-17-jdk
+   16  apt install openjdk-17-jdk
+   17  qqqqqqqqqqqqqa
+   18  cd /
+   19  qq:q
+   20  java --version
+   21  mvn
+   22  wget https://www-us.apache.org/dist/maven/maven-3/3.8.1/binaries/apache-maven-3.8.1-bin.tar.gz
+   23  sudo apt update
+   24  sudo apt install -y wget tar
+   25  wget https://dlcdn.apache.org/maven/maven-3/3.8.8/binaries/apache-maven-3.8.8-bin.tar.gz
+   26  ll
+   27  cd /opt/
+   28  wget https://dlcdn.apache.org/maven/maven-3/3.8.8/binaries/apache-maven-3.8.8-bin.tar.gz
+   29  la -la 
+   30  tar -xvf apache-maven-3.8.8-bin.tar.gz
+   31  ll
+   32  cd /home/ubuntu/ ; mkdir mavan
+   33  ll
+   34  rm -rf maven/
+   35  ll
+   36  cd mavan/
+   37  git 
+   38  git remote -v
+   39  git clone git@github.com:cvand91742/maven.git
+   40  git clone https://github.com/cvand91742/maven.git
+   41  cd /opt/
+   42  llll
+   43  ll
+   44  cd apache-maven-3.8.8
+   45  ll
+   46  mvn 
+   47  export PATH=$PATH:/opt/apache-maven-3.8.8/bin/
+   48  echo $PATH
+   49  mvn 
+   50  mvn --version
+   51  java --version
+   52  exit
+   53  mvn 
+   54  echo $PATH 
+   55  sudo nano /etc/profile.d/maven.sh
+   56  ll
+   57  cd /
+   58  cd /opt/
+   59  ll
+   60  pwd 
+   61  sudo mv apache-maven-3.8.1 /opt/maven
+   62  sudo mv apache-maven-3.8.1 /opt/maven
+   63  ll
+   64  pwd 
+   65  vi /etc/profile.d/maven.sh
+   66  cat /etc/profile.d/maven.sh
+   67  mvn 
+   68  la -la /etc/profile.d/maven.sh
+   69  chmod +x /etc/profile.d/maven.sh
+   70  la -la /etc/profile.d/maven.sh
+   71  mvn 
+   72  source /etc/profile.d/maven.sh
+   73  mvn --version
+   74  exit 
+   75  mvn --version
+   76  history
