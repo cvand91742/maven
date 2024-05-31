@@ -1,4 +1,4 @@
- 12  java 
+java 
    13  apt update -y 
    14  apt search jdk 
    15  apt instal openjdk-17-jdk
